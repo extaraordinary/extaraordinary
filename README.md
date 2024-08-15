@@ -12,10 +12,10 @@ Hi! I'm Tara, a passionate Computational Materials Scientist who:
 
 
 ### What I Do
-- **Materials Modeling**: Implementing first-principles calculations (density-functional theory) to explore materials properties
-- **Phonons**: Studying vibrational properties of disordered materials using electronic structure methods and high-performance computing
+- **Materials Modeling/Simulations**: Implementing electronic structure methods and visualization techniques to explore materials properties
+- **Phonons**: Studying vibrational properties of disordered materials using first-principles calculations and high-performance computing
 - **Materials Design**: Leveraging AI/ML techniques, particularly Deep Learning, to accelerate materials discovery and property predictions
-- **Sustainable Energy**: Interested in applications of novel materials with tailored properties in thermoelectrics and photovoltaics
+- **Sustainable Energy**: Interested in applications of novel materials with tailored properties as thermoelectrics and photovoltaics
 
 ### Spoken Languages
 
