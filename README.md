@@ -1,16 +1,35 @@
-## Hi there 👋
+# About Me
 
-<!--
-**extaraordinary/extaraordinary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Tara, a passionate Computational Materials Scientist who:
 
-Here are some ideas to get you started:
+- 🔬 absolutely loves science
+- 💡 is enthusiastic about exploring new ideas
+- 🎹 plays the piano
+- 🎨 finds joy in both creating and appreciating art
+- 📚 enjoys learning
+- 🏕 thrives on outdoor adventures
+- 📊 likes data visualisations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### What I Do
+- **Materials Modeling**: Implementing first-principles calculations (density-functional theory) to explore materials properties
+- **Phonons**: Studying vibrational properties of disordered materials using electronic structure methods and high-performance computing
+- **Materials Design**: Leveraging AI/ML techniques, particularly Deep Learning, to accelerate materials discovery and property predictions
+- **Sustainable Energy**: Interested in applications of novel materials with tailored properties in thermoelectrics and photovoltaics
+
+### Spoken Languages
+
+**`English`**
+**`German`**
+**`French`**
+**`Dutch`**
+
+### Programming Languages
+
+[![python](https://img.shields.io/badge/python-3572A5?style=flat&logo=python&logoColor=white&color=black)](https://www.python.org/)
+[![bash](https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![matlab](https://img.shields.io/badge/matlab-0076A8?style=flat&logo=mathworks&logoColor=white&color=orange)](https://www.mathworks.com/products/matlab.html) 
+[![c++](https://img.shields.io/badge/c%2B%2B-f34b7d?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
+[![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
+[![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) 
+[![html](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
