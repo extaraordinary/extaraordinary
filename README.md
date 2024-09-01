@@ -2,14 +2,13 @@
 
 Hi! I'm Tara, a passionate Computational Materials Scientist who:
 
-- 🔬 absolutely loves science
-- 💡 is enthusiastic about exploring new ideas
-- 🎹 plays the piano
-- 🎨 finds joy in both creating and appreciating art
-- 📚 enjoys learning
-- 🏕 thrives on outdoor adventures
-- 📊 likes data visualisations
-
+- 🤖 is a deep learning enthusiast,
+- 🔬 absolutely loves science,
+- 💡 is enthusiastic about exploring new ideas,
+- 🎹 is also a pianist,
+- 🎨 finds joy in both creating and appreciating art,
+- 🏕 thrives on outdoor adventures,
+- 📊 and likes data visualisations.
 
 ### What I Do
 - **Materials Modeling/Simulations**: Implementing electronic structure methods and visualization techniques to explore materials properties
