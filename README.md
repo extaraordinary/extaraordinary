@@ -1,20 +1,20 @@
 # About Me
 
-Hi! I'm Tara, a passionate Computational Materials Scientist who:
+I’m a computational materials scientist and doctoral researcher at CMU, working in Dr. Ismaila Dabo’s MOSAIC group. Fun facts about me:
 
-- 🤖 is a deep learning enthusiast,
-- 🔬 absolutely loves science,
-- 💡 is enthusiastic about exploring new ideas,
-- 🎹 is also a pianist,
-- 🎨 finds joy in both creating and appreciating art,
-- 🏕 thrives on outdoor adventures,
-- 📊 and likes data visualisations.
+- 🤖 Enthusiastic about deep learning.
+- 💡 Love exploring new ideas.
+- 🎹 A passionate pianist.
+- 🎨 Inspired by art, both creating and admiring.
+- 🏕 Thrive on outdoor adventures.
+- 📊 Enjoy crafting compelling data visualizations.
 
 ### What I Do
-- **Materials Modeling/Simulations**: Implementing electronic structure methods and visualization techniques to explore materials properties
-- **Phonons**: Studying vibrational properties of disordered materials using first-principles calculations and high-performance computing
-- **Materials Design**: Leveraging AI/ML techniques, particularly Deep Learning, to accelerate materials discovery and property predictions
-- **Sustainable Energy**: Interested in applications of novel materials with tailored properties as thermoelectrics and photovoltaics
+
+- **Materials Modeling**: Using electronic structure methods and visualization to uncover material properties.
+- **Phonons**: Exploring vibrational properties of disordered materials via ab-initio simulations.
+- **Materials Design**: Applying AI/ML, especially deep learning, to accelerate discovery and predictions.
+- **Sustainable Energy**: Focusing on novel materials with tailored properties for thermoelectrics and photovoltaics.
 
 ### Spoken Languages
 
