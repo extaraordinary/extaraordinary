@@ -1,6 +1,6 @@
 # About Me
 
-I’m a computational materials scientist and doctoral researcher at CMU, working in Dr. Ismaila Dabo’s MOSAIC group. Fun facts about me:
+I’m a Computational Materials Scientist and Doctoral Candidate at CMU, working in Dr. Ismaila Dabo’s MOSAIC group. Fun facts about me:
 
 - 🤖 Enthusiastic about deep learning.
 - 💡 Love exploring new ideas.
