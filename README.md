@@ -2,12 +2,12 @@
 
 I’m a Computational Materials Scientist and Doctoral Candidate at CMU, working in Dr. Ismaila Dabo’s MOSAIC group. Fun facts about me:
 
-- 🤖 Enthusiastic about deep learning.
-- 💡 Love exploring new ideas.
-- 🎹 A passionate pianist.
-- 🎨 Inspired by art, both creating and admiring.
-- 🏕 Thrive on outdoor adventures.
-- 📊 Enjoy crafting compelling data visualizations.
+- 🤖 I am an AI enthusiastic.
+- 💡 I love exploring new ideas.
+- 🎹 I am a passionate pianist.
+- 🎨 I am inspired by creating and admiring art.
+- 🏕 I thrive on outdoor adventures.
+- 📊 I enjoy crafting compelling data visualizations.
 
 ### What I Do
 
