@@ -1,6 +1,6 @@
 # About Me
 
-I’m a Computational Materials Scientist and Doctoral Candidate at CMU, working in Dr. Ismaila Dabo’s MOSAIC group. Fun facts about me:
+I’m a doctoral candidate and research assistant in the Department of Materials Science and Engineering at CMU, working with Dr. Ismaila Dabo. Fun facts about me:
 
 - 🤖 I am an AI enthusiast.
 - 💡 I love exploring new ideas.
