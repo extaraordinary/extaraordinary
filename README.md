@@ -3,7 +3,7 @@
 I’m a doctoral candidate and research assistant in the Department of Materials Science and Engineering at CMU, working with Dr. Ismaila Dabo. Fun facts about me:
 
 - 💡 I love exploring new ideas.
-- 📖 I love reading philosophy books.
+- 📖 I love reading books.
 - 🎹 I am a passionate pianist.
 - 🎨 I am inspired by creating and admiring art.
 - 🏕 I thrive on outdoor adventures.
