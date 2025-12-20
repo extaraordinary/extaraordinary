@@ -1,6 +1,6 @@
 # About Me
 
-I’m a doctoral candidate and research assistant in the Department of Materials Science and Engineering at CMU, working with Dr. Ismaila Dabo. Fun facts about me:
+I am a doctoral candidate and research assistant in the Department of Materials Science and Engineering at CMU, working with Dr. Ismaila Dabo. Fun facts about me:
 
 - 💡 I love exploring new ideas.
 - 📖 I love reading books.
@@ -22,6 +22,7 @@ I’m a doctoral candidate and research assistant in the Department of Materials
 **`German`**
 **`French`**
 **`Dutch`**
+**`Persian`**
 
 ### Programming Languages
 
