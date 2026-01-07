@@ -7,7 +7,6 @@ I am a doctoral candidate and research assistant in the Department of Materials 
 - 🎹 I am a passionate pianist.
 - 🎨 I am inspired by creating and admiring art.
 - 🏕 I thrive on outdoor adventures.
-- 📊 I enjoy crafting compelling data visualizations.
 
 ### What I Do
 
