@@ -3,10 +3,10 @@
 I'm a doctoral candidate and research assistant in the Department of Materials Science and Engineering at CMU, working with Dr. Ismaila Dabo. My research combines first-principles simulation and machine learning to understand and design materials for energy applications.
 
 ### What I Do
-- **Materials Modeling** — First-principles/DFT calculations (VASP, Quantum ESPRESSO) to uncover structural, vibrational, and electronic properties of materials.
+- **Materials Modeling** — First-principles/DFT calculations to uncover structural, vibrational, and electronic properties of materials.
 - **Phonons & Disorder** — Studying vibrational properties and thermal transport in high-entropy and disordered oxides via ab-initio and machine-learned interatomic potentials.
-- **ML for Materials Design** — Applying deep learning and Bayesian optimization to accelerate materials discovery and property prediction.
-- **Sustainable Energy** — Designing novel materials with tailored thermal and electrocaloric properties for thermoelectric and refrigeration applications.
+- **ML for Materials Design** — Applying deep learning to accelerate materials discovery and property prediction.
+- **Sustainable Energy** — Designing novel materials with tailored properties for thermoelectric and refrigeration applications.
 
 ### Spoken Languages
 `English` · `German` · `French` · `Dutch` · `Persian`
